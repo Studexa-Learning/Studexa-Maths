@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "M7-001",
+    "year": 7,
+    "title": "Analysing data \u2014 fluency",
+    "base": "Analysing data",
+    "strand": "Analysing",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-002",
+    "year": 7,
+    "title": "Analysing data \u2014 reasoning",
+    "base": "Analysing data",
+    "strand": "Analysing",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-003",
+    "year": 7,
+    "title": "Analysing data \u2014 problem solving",
+    "base": "Analysing data",
+    "strand": "Analysing",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-004",
+    "year": 7,
+    "title": "Analysing data \u2014 mixed practice",
+    "base": "Analysing data",
+    "strand": "Analysing",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-005",
+    "year": 7,
+    "title": "Analysing data \u2014 challenge",
+    "base": "Analysing data",
+    "strand": "Analysing",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-006",
+    "year": 7,
+    "title": "Number skills \u2014 fluency",
+    "base": "Number skills",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-007",
+    "year": 7,
+    "title": "Number skills \u2014 reasoning",
+    "base": "Number skills",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-008",
+    "year": 7,
+    "title": "Number skills \u2014 problem solving",
+    "base": "Number skills",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-009",
+    "year": 7,
+    "title": "Number skills \u2014 mixed practice",
+    "base": "Number skills",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-010",
+    "year": 7,
+    "title": "Number skills \u2014 challenge",
+    "base": "Number skills",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-011",
+    "year": 7,
+    "title": "Factors and multiples \u2014 fluency",
+    "base": "Factors and multiples",
+    "strand": "Factors",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-012",
+    "year": 7,
+    "title": "Factors and multiples \u2014 reasoning",
+    "base": "Factors and multiples",
+    "strand": "Factors",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-013",
+    "year": 7,
+    "title": "Factors and multiples \u2014 problem solving",
+    "base": "Factors and multiples",
+    "strand": "Factors",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-014",
+    "year": 7,
+    "title": "Factors and multiples \u2014 mixed practice",
+    "base": "Factors and multiples",
+    "strand": "Factors",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-015",
+    "year": 7,
+    "title": "Factors and multiples \u2014 challenge",
+    "base": "Factors and multiples",
+    "strand": "Factors",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-016",
+    "year": 7,
+    "title": "Expressions \u2014 fluency",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-017",
+    "year": 7,
+    "title": "Expressions \u2014 reasoning",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-018",
+    "year": 7,
+    "title": "Expressions \u2014 problem solving",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-019",
+    "year": 7,
+    "title": "Expressions \u2014 mixed practice",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-020",
+    "year": 7,
+    "title": "Expressions \u2014 challenge",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-021",
+    "year": 7,
+    "title": "Formulae \u2014 fluency",
+    "base": "Formulae",
+    "strand": "Formulae",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-022",
+    "year": 7,
+    "title": "Formulae \u2014 reasoning",
+    "base": "Formulae",
+    "strand": "Formulae",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-023",
+    "year": 7,
+    "title": "Formulae \u2014 problem solving",
+    "base": "Formulae",
+    "strand": "Formulae",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-024",
+    "year": 7,
+    "title": "Formulae \u2014 mixed practice",
+    "base": "Formulae",
+    "strand": "Formulae",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-025",
+    "year": 7,
+    "title": "Formulae \u2014 challenge",
+    "base": "Formulae",
+    "strand": "Formulae",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-026",
+    "year": 7,
+    "title": "Decimals \u2014 fluency",
+    "base": "Decimals",
+    "strand": "Decimals",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-027",
+    "year": 7,
+    "title": "Decimals \u2014 reasoning",
+    "base": "Decimals",
+    "strand": "Decimals",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-028",
+    "year": 7,
+    "title": "Decimals \u2014 problem solving",
+    "base": "Decimals",
+    "strand": "Decimals",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-029",
+    "year": 7,
+    "title": "Decimals \u2014 mixed practice",
+    "base": "Decimals",
+    "strand": "Decimals",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-030",
+    "year": 7,
+    "title": "Decimals \u2014 challenge",
+    "base": "Decimals",
+    "strand": "Decimals",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-031",
+    "year": 7,
+    "title": "Measures \u2014 fluency",
+    "base": "Measures",
+    "strand": "Measures",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-032",
+    "year": 7,
+    "title": "Measures \u2014 reasoning",
+    "base": "Measures",
+    "strand": "Measures",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-033",
+    "year": 7,
+    "title": "Measures \u2014 problem solving",
+    "base": "Measures",
+    "strand": "Measures",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-034",
+    "year": 7,
+    "title": "Measures \u2014 mixed practice",
+    "base": "Measures",
+    "strand": "Measures",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-035",
+    "year": 7,
+    "title": "Measures \u2014 challenge",
+    "base": "Measures",
+    "strand": "Measures",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-036",
+    "year": 7,
+    "title": "Fractions \u2014 fluency",
+    "base": "Fractions",
+    "strand": "Fractions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-037",
+    "year": 7,
+    "title": "Fractions \u2014 reasoning",
+    "base": "Fractions",
+    "strand": "Fractions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-038",
+    "year": 7,
+    "title": "Fractions \u2014 problem solving",
+    "base": "Fractions",
+    "strand": "Fractions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-039",
+    "year": 7,
+    "title": "Fractions \u2014 mixed practice",
+    "base": "Fractions",
+    "strand": "Fractions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-040",
+    "year": 7,
+    "title": "Fractions \u2014 challenge",
+    "base": "Fractions",
+    "strand": "Fractions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-041",
+    "year": 7,
+    "title": "Probability \u2014 fluency",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-042",
+    "year": 7,
+    "title": "Probability \u2014 reasoning",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-043",
+    "year": 7,
+    "title": "Probability \u2014 problem solving",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-044",
+    "year": 7,
+    "title": "Probability \u2014 mixed practice",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-045",
+    "year": 7,
+    "title": "Probability \u2014 challenge",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-046",
+    "year": 7,
+    "title": "Ratio \u2014 fluency",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-047",
+    "year": 7,
+    "title": "Ratio \u2014 reasoning",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-048",
+    "year": 7,
+    "title": "Ratio \u2014 problem solving",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-049",
+    "year": 7,
+    "title": "Ratio \u2014 mixed practice",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-050",
+    "year": 7,
+    "title": "Ratio \u2014 challenge",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-051",
+    "year": 7,
+    "title": "Proportion \u2014 fluency",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-052",
+    "year": 7,
+    "title": "Proportion \u2014 reasoning",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-053",
+    "year": 7,
+    "title": "Proportion \u2014 problem solving",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-054",
+    "year": 7,
+    "title": "Proportion \u2014 mixed practice",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-055",
+    "year": 7,
+    "title": "Proportion \u2014 challenge",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-056",
+    "year": 7,
+    "title": "Lines and angles \u2014 fluency",
+    "base": "Lines and angles",
+    "strand": "Lines",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-057",
+    "year": 7,
+    "title": "Lines and angles \u2014 reasoning",
+    "base": "Lines and angles",
+    "strand": "Lines",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-058",
+    "year": 7,
+    "title": "Lines and angles \u2014 problem solving",
+    "base": "Lines and angles",
+    "strand": "Lines",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-059",
+    "year": 7,
+    "title": "Lines and angles \u2014 mixed practice",
+    "base": "Lines and angles",
+    "strand": "Lines",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-060",
+    "year": 7,
+    "title": "Lines and angles \u2014 challenge",
+    "base": "Lines and angles",
+    "strand": "Lines",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-061",
+    "year": 7,
+    "title": "Sequences \u2014 fluency",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-062",
+    "year": 7,
+    "title": "Sequences \u2014 reasoning",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-063",
+    "year": 7,
+    "title": "Sequences \u2014 problem solving",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-064",
+    "year": 7,
+    "title": "Sequences \u2014 mixed practice",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-065",
+    "year": 7,
+    "title": "Sequences \u2014 challenge",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-066",
+    "year": 7,
+    "title": "Coordinates \u2014 fluency",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-067",
+    "year": 7,
+    "title": "Coordinates \u2014 reasoning",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-068",
+    "year": 7,
+    "title": "Coordinates \u2014 problem solving",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-069",
+    "year": 7,
+    "title": "Coordinates \u2014 mixed practice",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-070",
+    "year": 7,
+    "title": "Coordinates \u2014 challenge",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-071",
+    "year": 7,
+    "title": "Transformations \u2014 fluency",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-072",
+    "year": 7,
+    "title": "Transformations \u2014 reasoning",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-073",
+    "year": 7,
+    "title": "Transformations \u2014 problem solving",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-074",
+    "year": 7,
+    "title": "Transformations \u2014 mixed practice",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-075",
+    "year": 7,
+    "title": "Transformations \u2014 challenge",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-076",
+    "year": 7,
+    "title": "Perimeter and area \u2014 fluency",
+    "base": "Perimeter and area",
+    "strand": "Perimeter",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-077",
+    "year": 7,
+    "title": "Perimeter and area \u2014 reasoning",
+    "base": "Perimeter and area",
+    "strand": "Perimeter",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-078",
+    "year": 7,
+    "title": "Perimeter and area \u2014 problem solving",
+    "base": "Perimeter and area",
+    "strand": "Perimeter",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-079",
+    "year": 7,
+    "title": "Perimeter and area \u2014 mixed practice",
+    "base": "Perimeter and area",
+    "strand": "Perimeter",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-080",
+    "year": 7,
+    "title": "Perimeter and area \u2014 challenge",
+    "base": "Perimeter and area",
+    "strand": "Perimeter",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-081",
+    "year": 7,
+    "title": "Negative numbers \u2014 fluency",
+    "base": "Negative numbers",
+    "strand": "Negative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-082",
+    "year": 7,
+    "title": "Negative numbers \u2014 reasoning",
+    "base": "Negative numbers",
+    "strand": "Negative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-083",
+    "year": 7,
+    "title": "Negative numbers \u2014 problem solving",
+    "base": "Negative numbers",
+    "strand": "Negative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-084",
+    "year": 7,
+    "title": "Negative numbers \u2014 mixed practice",
+    "base": "Negative numbers",
+    "strand": "Negative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-085",
+    "year": 7,
+    "title": "Negative numbers \u2014 challenge",
+    "base": "Negative numbers",
+    "strand": "Negative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-086",
+    "year": 7,
+    "title": "Order of operations \u2014 fluency",
+    "base": "Order of operations",
+    "strand": "Order",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-087",
+    "year": 7,
+    "title": "Order of operations \u2014 reasoning",
+    "base": "Order of operations",
+    "strand": "Order",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-088",
+    "year": 7,
+    "title": "Order of operations \u2014 problem solving",
+    "base": "Order of operations",
+    "strand": "Order",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-089",
+    "year": 7,
+    "title": "Order of operations \u2014 mixed practice",
+    "base": "Order of operations",
+    "strand": "Order",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-090",
+    "year": 7,
+    "title": "Order of operations \u2014 challenge",
+    "base": "Order of operations",
+    "strand": "Order",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-091",
+    "year": 7,
+    "title": "Estimation \u2014 fluency",
+    "base": "Estimation",
+    "strand": "Estimation",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-092",
+    "year": 7,
+    "title": "Estimation \u2014 reasoning",
+    "base": "Estimation",
+    "strand": "Estimation",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-093",
+    "year": 7,
+    "title": "Estimation \u2014 problem solving",
+    "base": "Estimation",
+    "strand": "Estimation",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-094",
+    "year": 7,
+    "title": "Estimation \u2014 mixed practice",
+    "base": "Estimation",
+    "strand": "Estimation",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-095",
+    "year": 7,
+    "title": "Estimation \u2014 challenge",
+    "base": "Estimation",
+    "strand": "Estimation",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-096",
+    "year": 7,
+    "title": "Percentages \u2014 fluency",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-097",
+    "year": 7,
+    "title": "Percentages \u2014 reasoning",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-098",
+    "year": 7,
+    "title": "Percentages \u2014 problem solving",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-099",
+    "year": 7,
+    "title": "Percentages \u2014 mixed practice",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M7-100",
+    "year": 7,
+    "title": "Percentages \u2014 challenge",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-001",
+    "year": 8,
+    "title": "Number operations \u2014 fluency",
+    "base": "Number operations",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-002",
+    "year": 8,
+    "title": "Number operations \u2014 reasoning",
+    "base": "Number operations",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-003",
+    "year": 8,
+    "title": "Number operations \u2014 problem solving",
+    "base": "Number operations",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-004",
+    "year": 8,
+    "title": "Number operations \u2014 mixed practice",
+    "base": "Number operations",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-005",
+    "year": 8,
+    "title": "Number operations \u2014 challenge",
+    "base": "Number operations",
+    "strand": "Number",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-006",
+    "year": 8,
+    "title": "Powers and roots \u2014 fluency",
+    "base": "Powers and roots",
+    "strand": "Powers",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-007",
+    "year": 8,
+    "title": "Powers and roots \u2014 reasoning",
+    "base": "Powers and roots",
+    "strand": "Powers",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-008",
+    "year": 8,
+    "title": "Powers and roots \u2014 problem solving",
+    "base": "Powers and roots",
+    "strand": "Powers",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-009",
+    "year": 8,
+    "title": "Powers and roots \u2014 mixed practice",
+    "base": "Powers and roots",
+    "strand": "Powers",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-010",
+    "year": 8,
+    "title": "Powers and roots \u2014 challenge",
+    "base": "Powers and roots",
+    "strand": "Powers",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-011",
+    "year": 8,
+    "title": "Area and volume \u2014 fluency",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-012",
+    "year": 8,
+    "title": "Area and volume \u2014 reasoning",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-013",
+    "year": 8,
+    "title": "Area and volume \u2014 problem solving",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-014",
+    "year": 8,
+    "title": "Area and volume \u2014 mixed practice",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-015",
+    "year": 8,
+    "title": "Area and volume \u2014 challenge",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-016",
+    "year": 8,
+    "title": "Statistics \u2014 fluency",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-017",
+    "year": 8,
+    "title": "Statistics \u2014 reasoning",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-018",
+    "year": 8,
+    "title": "Statistics \u2014 problem solving",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-019",
+    "year": 8,
+    "title": "Statistics \u2014 mixed practice",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-020",
+    "year": 8,
+    "title": "Statistics \u2014 challenge",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-021",
+    "year": 8,
+    "title": "Graphs and charts \u2014 fluency",
+    "base": "Graphs and charts",
+    "strand": "Graphs",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-022",
+    "year": 8,
+    "title": "Graphs and charts \u2014 reasoning",
+    "base": "Graphs and charts",
+    "strand": "Graphs",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-023",
+    "year": 8,
+    "title": "Graphs and charts \u2014 problem solving",
+    "base": "Graphs and charts",
+    "strand": "Graphs",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-024",
+    "year": 8,
+    "title": "Graphs and charts \u2014 mixed practice",
+    "base": "Graphs and charts",
+    "strand": "Graphs",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-025",
+    "year": 8,
+    "title": "Graphs and charts \u2014 challenge",
+    "base": "Graphs and charts",
+    "strand": "Graphs",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-026",
+    "year": 8,
+    "title": "Expressions \u2014 fluency",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-027",
+    "year": 8,
+    "title": "Expressions \u2014 reasoning",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-028",
+    "year": 8,
+    "title": "Expressions \u2014 problem solving",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-029",
+    "year": 8,
+    "title": "Expressions \u2014 mixed practice",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-030",
+    "year": 8,
+    "title": "Expressions \u2014 challenge",
+    "base": "Expressions",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-031",
+    "year": 8,
+    "title": "Linear equations \u2014 fluency",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-032",
+    "year": 8,
+    "title": "Linear equations \u2014 reasoning",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-033",
+    "year": 8,
+    "title": "Linear equations \u2014 problem solving",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-034",
+    "year": 8,
+    "title": "Linear equations \u2014 mixed practice",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-035",
+    "year": 8,
+    "title": "Linear equations \u2014 challenge",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-036",
+    "year": 8,
+    "title": "Real-life graphs \u2014 fluency",
+    "base": "Real-life graphs",
+    "strand": "Real-life",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-037",
+    "year": 8,
+    "title": "Real-life graphs \u2014 reasoning",
+    "base": "Real-life graphs",
+    "strand": "Real-life",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-038",
+    "year": 8,
+    "title": "Real-life graphs \u2014 problem solving",
+    "base": "Real-life graphs",
+    "strand": "Real-life",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-039",
+    "year": 8,
+    "title": "Real-life graphs \u2014 mixed practice",
+    "base": "Real-life graphs",
+    "strand": "Real-life",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-040",
+    "year": 8,
+    "title": "Real-life graphs \u2014 challenge",
+    "base": "Real-life graphs",
+    "strand": "Real-life",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-041",
+    "year": 8,
+    "title": "Ratio \u2014 fluency",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-042",
+    "year": 8,
+    "title": "Ratio \u2014 reasoning",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-043",
+    "year": 8,
+    "title": "Ratio \u2014 problem solving",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-044",
+    "year": 8,
+    "title": "Ratio \u2014 mixed practice",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-045",
+    "year": 8,
+    "title": "Ratio \u2014 challenge",
+    "base": "Ratio",
+    "strand": "Ratio",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-046",
+    "year": 8,
+    "title": "Rounding \u2014 fluency",
+    "base": "Rounding",
+    "strand": "Rounding",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-047",
+    "year": 8,
+    "title": "Rounding \u2014 reasoning",
+    "base": "Rounding",
+    "strand": "Rounding",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-048",
+    "year": 8,
+    "title": "Rounding \u2014 problem solving",
+    "base": "Rounding",
+    "strand": "Rounding",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-049",
+    "year": 8,
+    "title": "Rounding \u2014 mixed practice",
+    "base": "Rounding",
+    "strand": "Rounding",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-050",
+    "year": 8,
+    "title": "Rounding \u2014 challenge",
+    "base": "Rounding",
+    "strand": "Rounding",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-051",
+    "year": 8,
+    "title": "Angles in polygons \u2014 fluency",
+    "base": "Angles in polygons",
+    "strand": "Angles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-052",
+    "year": 8,
+    "title": "Angles in polygons \u2014 reasoning",
+    "base": "Angles in polygons",
+    "strand": "Angles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-053",
+    "year": 8,
+    "title": "Angles in polygons \u2014 problem solving",
+    "base": "Angles in polygons",
+    "strand": "Angles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-054",
+    "year": 8,
+    "title": "Angles in polygons \u2014 mixed practice",
+    "base": "Angles in polygons",
+    "strand": "Angles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-055",
+    "year": 8,
+    "title": "Angles in polygons \u2014 challenge",
+    "base": "Angles in polygons",
+    "strand": "Angles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-056",
+    "year": 8,
+    "title": "Fraction calculations \u2014 fluency",
+    "base": "Fraction calculations",
+    "strand": "Fraction",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-057",
+    "year": 8,
+    "title": "Fraction calculations \u2014 reasoning",
+    "base": "Fraction calculations",
+    "strand": "Fraction",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-058",
+    "year": 8,
+    "title": "Fraction calculations \u2014 problem solving",
+    "base": "Fraction calculations",
+    "strand": "Fraction",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-059",
+    "year": 8,
+    "title": "Fraction calculations \u2014 mixed practice",
+    "base": "Fraction calculations",
+    "strand": "Fraction",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-060",
+    "year": 8,
+    "title": "Fraction calculations \u2014 challenge",
+    "base": "Fraction calculations",
+    "strand": "Fraction",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-061",
+    "year": 8,
+    "title": "Straight-line graphs \u2014 fluency",
+    "base": "Straight-line graphs",
+    "strand": "Straight-line",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-062",
+    "year": 8,
+    "title": "Straight-line graphs \u2014 reasoning",
+    "base": "Straight-line graphs",
+    "strand": "Straight-line",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-063",
+    "year": 8,
+    "title": "Straight-line graphs \u2014 problem solving",
+    "base": "Straight-line graphs",
+    "strand": "Straight-line",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-064",
+    "year": 8,
+    "title": "Straight-line graphs \u2014 mixed practice",
+    "base": "Straight-line graphs",
+    "strand": "Straight-line",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-065",
+    "year": 8,
+    "title": "Straight-line graphs \u2014 challenge",
+    "base": "Straight-line graphs",
+    "strand": "Straight-line",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-066",
+    "year": 8,
+    "title": "Percentages \u2014 fluency",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-067",
+    "year": 8,
+    "title": "Percentages \u2014 reasoning",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-068",
+    "year": 8,
+    "title": "Percentages \u2014 problem solving",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-069",
+    "year": 8,
+    "title": "Percentages \u2014 mixed practice",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-070",
+    "year": 8,
+    "title": "Percentages \u2014 challenge",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-071",
+    "year": 8,
+    "title": "Standard form intro \u2014 fluency",
+    "base": "Standard form intro",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-072",
+    "year": 8,
+    "title": "Standard form intro \u2014 reasoning",
+    "base": "Standard form intro",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-073",
+    "year": 8,
+    "title": "Standard form intro \u2014 problem solving",
+    "base": "Standard form intro",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-074",
+    "year": 8,
+    "title": "Standard form intro \u2014 mixed practice",
+    "base": "Standard form intro",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-075",
+    "year": 8,
+    "title": "Standard form intro \u2014 challenge",
+    "base": "Standard form intro",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-076",
+    "year": 8,
+    "title": "Similarity \u2014 fluency",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-077",
+    "year": 8,
+    "title": "Similarity \u2014 reasoning",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-078",
+    "year": 8,
+    "title": "Similarity \u2014 problem solving",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-079",
+    "year": 8,
+    "title": "Similarity \u2014 mixed practice",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-080",
+    "year": 8,
+    "title": "Similarity \u2014 challenge",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-081",
+    "year": 8,
+    "title": "Constructions \u2014 fluency",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-082",
+    "year": 8,
+    "title": "Constructions \u2014 reasoning",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-083",
+    "year": 8,
+    "title": "Constructions \u2014 problem solving",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-084",
+    "year": 8,
+    "title": "Constructions \u2014 mixed practice",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-085",
+    "year": 8,
+    "title": "Constructions \u2014 challenge",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-086",
+    "year": 8,
+    "title": "Sequences \u2014 fluency",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-087",
+    "year": 8,
+    "title": "Sequences \u2014 reasoning",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-088",
+    "year": 8,
+    "title": "Sequences \u2014 problem solving",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-089",
+    "year": 8,
+    "title": "Sequences \u2014 mixed practice",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-090",
+    "year": 8,
+    "title": "Sequences \u2014 challenge",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-091",
+    "year": 8,
+    "title": "Coordinates \u2014 fluency",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-092",
+    "year": 8,
+    "title": "Coordinates \u2014 reasoning",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-093",
+    "year": 8,
+    "title": "Coordinates \u2014 problem solving",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-094",
+    "year": 8,
+    "title": "Coordinates \u2014 mixed practice",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-095",
+    "year": 8,
+    "title": "Coordinates \u2014 challenge",
+    "base": "Coordinates",
+    "strand": "Coordinates",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-096",
+    "year": 8,
+    "title": "Probability \u2014 fluency",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-097",
+    "year": 8,
+    "title": "Probability \u2014 reasoning",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-098",
+    "year": 8,
+    "title": "Probability \u2014 problem solving",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-099",
+    "year": 8,
+    "title": "Probability \u2014 mixed practice",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M8-100",
+    "year": 8,
+    "title": "Probability \u2014 challenge",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-001",
+    "year": 9,
+    "title": "Indices \u2014 fluency",
+    "base": "Indices",
+    "strand": "Indices",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-002",
+    "year": 9,
+    "title": "Indices \u2014 reasoning",
+    "base": "Indices",
+    "strand": "Indices",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-003",
+    "year": 9,
+    "title": "Indices \u2014 problem solving",
+    "base": "Indices",
+    "strand": "Indices",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-004",
+    "year": 9,
+    "title": "Indices \u2014 mixed practice",
+    "base": "Indices",
+    "strand": "Indices",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-005",
+    "year": 9,
+    "title": "Indices \u2014 challenge",
+    "base": "Indices",
+    "strand": "Indices",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-006",
+    "year": 9,
+    "title": "Standard form \u2014 fluency",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-007",
+    "year": 9,
+    "title": "Standard form \u2014 reasoning",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-008",
+    "year": 9,
+    "title": "Standard form \u2014 problem solving",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-009",
+    "year": 9,
+    "title": "Standard form \u2014 mixed practice",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-010",
+    "year": 9,
+    "title": "Standard form \u2014 challenge",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-011",
+    "year": 9,
+    "title": "Expressions and formulae \u2014 fluency",
+    "base": "Expressions and formulae",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-012",
+    "year": 9,
+    "title": "Expressions and formulae \u2014 reasoning",
+    "base": "Expressions and formulae",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-013",
+    "year": 9,
+    "title": "Expressions and formulae \u2014 problem solving",
+    "base": "Expressions and formulae",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-014",
+    "year": 9,
+    "title": "Expressions and formulae \u2014 mixed practice",
+    "base": "Expressions and formulae",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-015",
+    "year": 9,
+    "title": "Expressions and formulae \u2014 challenge",
+    "base": "Expressions and formulae",
+    "strand": "Expressions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-016",
+    "year": 9,
+    "title": "Data analysis \u2014 fluency",
+    "base": "Data analysis",
+    "strand": "Data",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-017",
+    "year": 9,
+    "title": "Data analysis \u2014 reasoning",
+    "base": "Data analysis",
+    "strand": "Data",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-018",
+    "year": 9,
+    "title": "Data analysis \u2014 problem solving",
+    "base": "Data analysis",
+    "strand": "Data",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-019",
+    "year": 9,
+    "title": "Data analysis \u2014 mixed practice",
+    "base": "Data analysis",
+    "strand": "Data",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-020",
+    "year": 9,
+    "title": "Data analysis \u2014 challenge",
+    "base": "Data analysis",
+    "strand": "Data",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-021",
+    "year": 9,
+    "title": "Multiplicative reasoning \u2014 fluency",
+    "base": "Multiplicative reasoning",
+    "strand": "Multiplicative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-022",
+    "year": 9,
+    "title": "Multiplicative reasoning \u2014 reasoning",
+    "base": "Multiplicative reasoning",
+    "strand": "Multiplicative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-023",
+    "year": 9,
+    "title": "Multiplicative reasoning \u2014 problem solving",
+    "base": "Multiplicative reasoning",
+    "strand": "Multiplicative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-024",
+    "year": 9,
+    "title": "Multiplicative reasoning \u2014 mixed practice",
+    "base": "Multiplicative reasoning",
+    "strand": "Multiplicative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-025",
+    "year": 9,
+    "title": "Multiplicative reasoning \u2014 challenge",
+    "base": "Multiplicative reasoning",
+    "strand": "Multiplicative",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-026",
+    "year": 9,
+    "title": "Constructions \u2014 fluency",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-027",
+    "year": 9,
+    "title": "Constructions \u2014 reasoning",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-028",
+    "year": 9,
+    "title": "Constructions \u2014 problem solving",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-029",
+    "year": 9,
+    "title": "Constructions \u2014 mixed practice",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-030",
+    "year": 9,
+    "title": "Constructions \u2014 challenge",
+    "base": "Constructions",
+    "strand": "Constructions",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-031",
+    "year": 9,
+    "title": "Inequalities \u2014 fluency",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-032",
+    "year": 9,
+    "title": "Inequalities \u2014 reasoning",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-033",
+    "year": 9,
+    "title": "Inequalities \u2014 problem solving",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-034",
+    "year": 9,
+    "title": "Inequalities \u2014 mixed practice",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-035",
+    "year": 9,
+    "title": "Inequalities \u2014 challenge",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-036",
+    "year": 9,
+    "title": "Equations \u2014 fluency",
+    "base": "Equations",
+    "strand": "Equations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-037",
+    "year": 9,
+    "title": "Equations \u2014 reasoning",
+    "base": "Equations",
+    "strand": "Equations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-038",
+    "year": 9,
+    "title": "Equations \u2014 problem solving",
+    "base": "Equations",
+    "strand": "Equations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-039",
+    "year": 9,
+    "title": "Equations \u2014 mixed practice",
+    "base": "Equations",
+    "strand": "Equations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-040",
+    "year": 9,
+    "title": "Equations \u2014 challenge",
+    "base": "Equations",
+    "strand": "Equations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-041",
+    "year": 9,
+    "title": "Proportion \u2014 fluency",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-042",
+    "year": 9,
+    "title": "Proportion \u2014 reasoning",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-043",
+    "year": 9,
+    "title": "Proportion \u2014 problem solving",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-044",
+    "year": 9,
+    "title": "Proportion \u2014 mixed practice",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-045",
+    "year": 9,
+    "title": "Proportion \u2014 challenge",
+    "base": "Proportion",
+    "strand": "Proportion",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-046",
+    "year": 9,
+    "title": "Circles \u2014 fluency",
+    "base": "Circles",
+    "strand": "Circles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-047",
+    "year": 9,
+    "title": "Circles \u2014 reasoning",
+    "base": "Circles",
+    "strand": "Circles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-048",
+    "year": 9,
+    "title": "Circles \u2014 problem solving",
+    "base": "Circles",
+    "strand": "Circles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-049",
+    "year": 9,
+    "title": "Circles \u2014 mixed practice",
+    "base": "Circles",
+    "strand": "Circles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-050",
+    "year": 9,
+    "title": "Circles \u2014 challenge",
+    "base": "Circles",
+    "strand": "Circles",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-051",
+    "year": 9,
+    "title": "Pythagoras \u2014 fluency",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-052",
+    "year": 9,
+    "title": "Pythagoras \u2014 reasoning",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-053",
+    "year": 9,
+    "title": "Pythagoras \u2014 problem solving",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-054",
+    "year": 9,
+    "title": "Pythagoras \u2014 mixed practice",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-055",
+    "year": 9,
+    "title": "Pythagoras \u2014 challenge",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-056",
+    "year": 9,
+    "title": "Prisms \u2014 fluency",
+    "base": "Prisms",
+    "strand": "Prisms",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-057",
+    "year": 9,
+    "title": "Prisms \u2014 reasoning",
+    "base": "Prisms",
+    "strand": "Prisms",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-058",
+    "year": 9,
+    "title": "Prisms \u2014 problem solving",
+    "base": "Prisms",
+    "strand": "Prisms",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-059",
+    "year": 9,
+    "title": "Prisms \u2014 mixed practice",
+    "base": "Prisms",
+    "strand": "Prisms",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-060",
+    "year": 9,
+    "title": "Prisms \u2014 challenge",
+    "base": "Prisms",
+    "strand": "Prisms",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-061",
+    "year": 9,
+    "title": "Linear graphs \u2014 fluency",
+    "base": "Linear graphs",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-062",
+    "year": 9,
+    "title": "Linear graphs \u2014 reasoning",
+    "base": "Linear graphs",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-063",
+    "year": 9,
+    "title": "Linear graphs \u2014 problem solving",
+    "base": "Linear graphs",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-064",
+    "year": 9,
+    "title": "Linear graphs \u2014 mixed practice",
+    "base": "Linear graphs",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-065",
+    "year": 9,
+    "title": "Linear graphs \u2014 challenge",
+    "base": "Linear graphs",
+    "strand": "Linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-066",
+    "year": 9,
+    "title": "Non-linear graphs \u2014 fluency",
+    "base": "Non-linear graphs",
+    "strand": "Non-linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-067",
+    "year": 9,
+    "title": "Non-linear graphs \u2014 reasoning",
+    "base": "Non-linear graphs",
+    "strand": "Non-linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-068",
+    "year": 9,
+    "title": "Non-linear graphs \u2014 problem solving",
+    "base": "Non-linear graphs",
+    "strand": "Non-linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-069",
+    "year": 9,
+    "title": "Non-linear graphs \u2014 mixed practice",
+    "base": "Non-linear graphs",
+    "strand": "Non-linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-070",
+    "year": 9,
+    "title": "Non-linear graphs \u2014 challenge",
+    "base": "Non-linear graphs",
+    "strand": "Non-linear",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-071",
+    "year": 9,
+    "title": "Probability \u2014 fluency",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-072",
+    "year": 9,
+    "title": "Probability \u2014 reasoning",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-073",
+    "year": 9,
+    "title": "Probability \u2014 problem solving",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-074",
+    "year": 9,
+    "title": "Probability \u2014 mixed practice",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-075",
+    "year": 9,
+    "title": "Probability \u2014 challenge",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-076",
+    "year": 9,
+    "title": "Similarity \u2014 fluency",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-077",
+    "year": 9,
+    "title": "Similarity \u2014 reasoning",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-078",
+    "year": 9,
+    "title": "Similarity \u2014 problem solving",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-079",
+    "year": 9,
+    "title": "Similarity \u2014 mixed practice",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-080",
+    "year": 9,
+    "title": "Similarity \u2014 challenge",
+    "base": "Similarity",
+    "strand": "Similarity",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-081",
+    "year": 9,
+    "title": "Transformations \u2014 fluency",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-082",
+    "year": 9,
+    "title": "Transformations \u2014 reasoning",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-083",
+    "year": 9,
+    "title": "Transformations \u2014 problem solving",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-084",
+    "year": 9,
+    "title": "Transformations \u2014 mixed practice",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-085",
+    "year": 9,
+    "title": "Transformations \u2014 challenge",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-086",
+    "year": 9,
+    "title": "Surds intro \u2014 fluency",
+    "base": "Surds intro",
+    "strand": "Surds",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-087",
+    "year": 9,
+    "title": "Surds intro \u2014 reasoning",
+    "base": "Surds intro",
+    "strand": "Surds",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-088",
+    "year": 9,
+    "title": "Surds intro \u2014 problem solving",
+    "base": "Surds intro",
+    "strand": "Surds",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-089",
+    "year": 9,
+    "title": "Surds intro \u2014 mixed practice",
+    "base": "Surds intro",
+    "strand": "Surds",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-090",
+    "year": 9,
+    "title": "Surds intro \u2014 challenge",
+    "base": "Surds intro",
+    "strand": "Surds",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-091",
+    "year": 9,
+    "title": "Compound measures \u2014 fluency",
+    "base": "Compound measures",
+    "strand": "Compound",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-092",
+    "year": 9,
+    "title": "Compound measures \u2014 reasoning",
+    "base": "Compound measures",
+    "strand": "Compound",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-093",
+    "year": 9,
+    "title": "Compound measures \u2014 problem solving",
+    "base": "Compound measures",
+    "strand": "Compound",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-094",
+    "year": 9,
+    "title": "Compound measures \u2014 mixed practice",
+    "base": "Compound measures",
+    "strand": "Compound",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-095",
+    "year": 9,
+    "title": "Compound measures \u2014 challenge",
+    "base": "Compound measures",
+    "strand": "Compound",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-096",
+    "year": 9,
+    "title": "Direct and inverse proportion \u2014 fluency",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-097",
+    "year": 9,
+    "title": "Direct and inverse proportion \u2014 reasoning",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-098",
+    "year": 9,
+    "title": "Direct and inverse proportion \u2014 problem solving",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-099",
+    "year": 9,
+    "title": "Direct and inverse proportion \u2014 mixed practice",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M9-100",
+    "year": 9,
+    "title": "Direct and inverse proportion \u2014 challenge",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "not_applicable",
+    "exam_board": "Pearson-aligned KS3 progression",
+    "spec": "KS3"
+  },
+  {
+    "id": "M10-001",
+    "year": 10,
+    "title": "Number \u2014 fluency",
+    "base": "Number",
+    "strand": "Number",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-002",
+    "year": 10,
+    "title": "Number \u2014 reasoning",
+    "base": "Number",
+    "strand": "Number",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-003",
+    "year": 10,
+    "title": "Number \u2014 problem solving",
+    "base": "Number",
+    "strand": "Number",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-004",
+    "year": 10,
+    "title": "Number \u2014 mixed practice",
+    "base": "Number",
+    "strand": "Number",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-005",
+    "year": 10,
+    "title": "Number \u2014 challenge",
+    "base": "Number",
+    "strand": "Number",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-006",
+    "year": 10,
+    "title": "Accuracy and bounds \u2014 fluency",
+    "base": "Accuracy and bounds",
+    "strand": "Accuracy",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-007",
+    "year": 10,
+    "title": "Accuracy and bounds \u2014 reasoning",
+    "base": "Accuracy and bounds",
+    "strand": "Accuracy",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-008",
+    "year": 10,
+    "title": "Accuracy and bounds \u2014 problem solving",
+    "base": "Accuracy and bounds",
+    "strand": "Accuracy",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-009",
+    "year": 10,
+    "title": "Accuracy and bounds \u2014 mixed practice",
+    "base": "Accuracy and bounds",
+    "strand": "Accuracy",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-010",
+    "year": 10,
+    "title": "Accuracy and bounds \u2014 challenge",
+    "base": "Accuracy and bounds",
+    "strand": "Accuracy",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-011",
+    "year": 10,
+    "title": "Indices and roots \u2014 fluency",
+    "base": "Indices and roots",
+    "strand": "Indices",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-012",
+    "year": 10,
+    "title": "Indices and roots \u2014 reasoning",
+    "base": "Indices and roots",
+    "strand": "Indices",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-013",
+    "year": 10,
+    "title": "Indices and roots \u2014 problem solving",
+    "base": "Indices and roots",
+    "strand": "Indices",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-014",
+    "year": 10,
+    "title": "Indices and roots \u2014 mixed practice",
+    "base": "Indices and roots",
+    "strand": "Indices",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-015",
+    "year": 10,
+    "title": "Indices and roots \u2014 challenge",
+    "base": "Indices and roots",
+    "strand": "Indices",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-016",
+    "year": 10,
+    "title": "Algebraic manipulation \u2014 fluency",
+    "base": "Algebraic manipulation",
+    "strand": "Algebraic",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-017",
+    "year": 10,
+    "title": "Algebraic manipulation \u2014 reasoning",
+    "base": "Algebraic manipulation",
+    "strand": "Algebraic",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-018",
+    "year": 10,
+    "title": "Algebraic manipulation \u2014 problem solving",
+    "base": "Algebraic manipulation",
+    "strand": "Algebraic",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-019",
+    "year": 10,
+    "title": "Algebraic manipulation \u2014 mixed practice",
+    "base": "Algebraic manipulation",
+    "strand": "Algebraic",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-020",
+    "year": 10,
+    "title": "Algebraic manipulation \u2014 challenge",
+    "base": "Algebraic manipulation",
+    "strand": "Algebraic",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-021",
+    "year": 10,
+    "title": "Linear equations \u2014 fluency",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-022",
+    "year": 10,
+    "title": "Linear equations \u2014 reasoning",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-023",
+    "year": 10,
+    "title": "Linear equations \u2014 problem solving",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-024",
+    "year": 10,
+    "title": "Linear equations \u2014 mixed practice",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-025",
+    "year": 10,
+    "title": "Linear equations \u2014 challenge",
+    "base": "Linear equations",
+    "strand": "Linear",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-026",
+    "year": 10,
+    "title": "Inequalities \u2014 fluency",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-027",
+    "year": 10,
+    "title": "Inequalities \u2014 reasoning",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-028",
+    "year": 10,
+    "title": "Inequalities \u2014 problem solving",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-029",
+    "year": 10,
+    "title": "Inequalities \u2014 mixed practice",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-030",
+    "year": 10,
+    "title": "Inequalities \u2014 challenge",
+    "base": "Inequalities",
+    "strand": "Inequalities",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-031",
+    "year": 10,
+    "title": "Sequences \u2014 fluency",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-032",
+    "year": 10,
+    "title": "Sequences \u2014 reasoning",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-033",
+    "year": 10,
+    "title": "Sequences \u2014 problem solving",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-034",
+    "year": 10,
+    "title": "Sequences \u2014 mixed practice",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-035",
+    "year": 10,
+    "title": "Sequences \u2014 challenge",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-036",
+    "year": 10,
+    "title": "Graphs \u2014 fluency",
+    "base": "Graphs",
+    "strand": "Graphs",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-037",
+    "year": 10,
+    "title": "Graphs \u2014 reasoning",
+    "base": "Graphs",
+    "strand": "Graphs",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-038",
+    "year": 10,
+    "title": "Graphs \u2014 problem solving",
+    "base": "Graphs",
+    "strand": "Graphs",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-039",
+    "year": 10,
+    "title": "Graphs \u2014 mixed practice",
+    "base": "Graphs",
+    "strand": "Graphs",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-040",
+    "year": 10,
+    "title": "Graphs \u2014 challenge",
+    "base": "Graphs",
+    "strand": "Graphs",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-041",
+    "year": 10,
+    "title": "Ratio and proportion \u2014 fluency",
+    "base": "Ratio and proportion",
+    "strand": "Ratio",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-042",
+    "year": 10,
+    "title": "Ratio and proportion \u2014 reasoning",
+    "base": "Ratio and proportion",
+    "strand": "Ratio",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-043",
+    "year": 10,
+    "title": "Ratio and proportion \u2014 problem solving",
+    "base": "Ratio and proportion",
+    "strand": "Ratio",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-044",
+    "year": 10,
+    "title": "Ratio and proportion \u2014 mixed practice",
+    "base": "Ratio and proportion",
+    "strand": "Ratio",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-045",
+    "year": 10,
+    "title": "Ratio and proportion \u2014 challenge",
+    "base": "Ratio and proportion",
+    "strand": "Ratio",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-046",
+    "year": 10,
+    "title": "Percentages \u2014 fluency",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-047",
+    "year": 10,
+    "title": "Percentages \u2014 reasoning",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-048",
+    "year": 10,
+    "title": "Percentages \u2014 problem solving",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-049",
+    "year": 10,
+    "title": "Percentages \u2014 mixed practice",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-050",
+    "year": 10,
+    "title": "Percentages \u2014 challenge",
+    "base": "Percentages",
+    "strand": "Percentages",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-051",
+    "year": 10,
+    "title": "Rates of change \u2014 fluency",
+    "base": "Rates of change",
+    "strand": "Rates",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-052",
+    "year": 10,
+    "title": "Rates of change \u2014 reasoning",
+    "base": "Rates of change",
+    "strand": "Rates",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-053",
+    "year": 10,
+    "title": "Rates of change \u2014 problem solving",
+    "base": "Rates of change",
+    "strand": "Rates",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-054",
+    "year": 10,
+    "title": "Rates of change \u2014 mixed practice",
+    "base": "Rates of change",
+    "strand": "Rates",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-055",
+    "year": 10,
+    "title": "Rates of change \u2014 challenge",
+    "base": "Rates of change",
+    "strand": "Rates",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-056",
+    "year": 10,
+    "title": "Angles \u2014 fluency",
+    "base": "Angles",
+    "strand": "Angles",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-057",
+    "year": 10,
+    "title": "Angles \u2014 reasoning",
+    "base": "Angles",
+    "strand": "Angles",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-058",
+    "year": 10,
+    "title": "Angles \u2014 problem solving",
+    "base": "Angles",
+    "strand": "Angles",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-059",
+    "year": 10,
+    "title": "Angles \u2014 mixed practice",
+    "base": "Angles",
+    "strand": "Angles",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-060",
+    "year": 10,
+    "title": "Angles \u2014 challenge",
+    "base": "Angles",
+    "strand": "Angles",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-061",
+    "year": 10,
+    "title": "Polygons \u2014 fluency",
+    "base": "Polygons",
+    "strand": "Polygons",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-062",
+    "year": 10,
+    "title": "Polygons \u2014 reasoning",
+    "base": "Polygons",
+    "strand": "Polygons",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-063",
+    "year": 10,
+    "title": "Polygons \u2014 problem solving",
+    "base": "Polygons",
+    "strand": "Polygons",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-064",
+    "year": 10,
+    "title": "Polygons \u2014 mixed practice",
+    "base": "Polygons",
+    "strand": "Polygons",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-065",
+    "year": 10,
+    "title": "Polygons \u2014 challenge",
+    "base": "Polygons",
+    "strand": "Polygons",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-066",
+    "year": 10,
+    "title": "Area and volume \u2014 fluency",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-067",
+    "year": 10,
+    "title": "Area and volume \u2014 reasoning",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-068",
+    "year": 10,
+    "title": "Area and volume \u2014 problem solving",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-069",
+    "year": 10,
+    "title": "Area and volume \u2014 mixed practice",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-070",
+    "year": 10,
+    "title": "Area and volume \u2014 challenge",
+    "base": "Area and volume",
+    "strand": "Area",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-071",
+    "year": 10,
+    "title": "Pythagoras \u2014 fluency",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-072",
+    "year": 10,
+    "title": "Pythagoras \u2014 reasoning",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-073",
+    "year": 10,
+    "title": "Pythagoras \u2014 problem solving",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-074",
+    "year": 10,
+    "title": "Pythagoras \u2014 mixed practice",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-075",
+    "year": 10,
+    "title": "Pythagoras \u2014 challenge",
+    "base": "Pythagoras",
+    "strand": "Pythagoras",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-076",
+    "year": 10,
+    "title": "Trigonometry \u2014 fluency",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-077",
+    "year": 10,
+    "title": "Trigonometry \u2014 reasoning",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-078",
+    "year": 10,
+    "title": "Trigonometry \u2014 problem solving",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-079",
+    "year": 10,
+    "title": "Trigonometry \u2014 mixed practice",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-080",
+    "year": 10,
+    "title": "Trigonometry \u2014 challenge",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-081",
+    "year": 10,
+    "title": "Probability \u2014 fluency",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-082",
+    "year": 10,
+    "title": "Probability \u2014 reasoning",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-083",
+    "year": 10,
+    "title": "Probability \u2014 problem solving",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-084",
+    "year": 10,
+    "title": "Probability \u2014 mixed practice",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-085",
+    "year": 10,
+    "title": "Probability \u2014 challenge",
+    "base": "Probability",
+    "strand": "Probability",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-086",
+    "year": 10,
+    "title": "Statistics \u2014 fluency",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-087",
+    "year": 10,
+    "title": "Statistics \u2014 reasoning",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-088",
+    "year": 10,
+    "title": "Statistics \u2014 problem solving",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-089",
+    "year": 10,
+    "title": "Statistics \u2014 mixed practice",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-090",
+    "year": 10,
+    "title": "Statistics \u2014 challenge",
+    "base": "Statistics",
+    "strand": "Statistics",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-091",
+    "year": 10,
+    "title": "Vectors \u2014 fluency",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-092",
+    "year": 10,
+    "title": "Vectors \u2014 reasoning",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-093",
+    "year": 10,
+    "title": "Vectors \u2014 problem solving",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-094",
+    "year": 10,
+    "title": "Vectors \u2014 mixed practice",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-095",
+    "year": 10,
+    "title": "Vectors \u2014 challenge",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-096",
+    "year": 10,
+    "title": "Transformations \u2014 fluency",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-097",
+    "year": 10,
+    "title": "Transformations \u2014 reasoning",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-098",
+    "year": 10,
+    "title": "Transformations \u2014 problem solving",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-099",
+    "year": 10,
+    "title": "Transformations \u2014 mixed practice",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M10-100",
+    "year": 10,
+    "title": "Transformations \u2014 challenge",
+    "base": "Transformations",
+    "strand": "Transformations",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-001",
+    "year": 11,
+    "title": "Number revision \u2014 fluency",
+    "base": "Number revision",
+    "strand": "Number",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-002",
+    "year": 11,
+    "title": "Number revision \u2014 reasoning",
+    "base": "Number revision",
+    "strand": "Number",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-003",
+    "year": 11,
+    "title": "Number revision \u2014 problem solving",
+    "base": "Number revision",
+    "strand": "Number",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-004",
+    "year": 11,
+    "title": "Number revision \u2014 mixed practice",
+    "base": "Number revision",
+    "strand": "Number",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-005",
+    "year": 11,
+    "title": "Number revision \u2014 challenge",
+    "base": "Number revision",
+    "strand": "Number",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-006",
+    "year": 11,
+    "title": "Standard form \u2014 fluency",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-007",
+    "year": 11,
+    "title": "Standard form \u2014 reasoning",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-008",
+    "year": 11,
+    "title": "Standard form \u2014 problem solving",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-009",
+    "year": 11,
+    "title": "Standard form \u2014 mixed practice",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-010",
+    "year": 11,
+    "title": "Standard form \u2014 challenge",
+    "base": "Standard form",
+    "strand": "Standard",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-011",
+    "year": 11,
+    "title": "Surds \u2014 fluency",
+    "base": "Surds",
+    "strand": "Surds",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-012",
+    "year": 11,
+    "title": "Surds \u2014 reasoning",
+    "base": "Surds",
+    "strand": "Surds",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-013",
+    "year": 11,
+    "title": "Surds \u2014 problem solving",
+    "base": "Surds",
+    "strand": "Surds",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-014",
+    "year": 11,
+    "title": "Surds \u2014 mixed practice",
+    "base": "Surds",
+    "strand": "Surds",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-015",
+    "year": 11,
+    "title": "Surds \u2014 challenge",
+    "base": "Surds",
+    "strand": "Surds",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-016",
+    "year": 11,
+    "title": "Quadratics \u2014 fluency",
+    "base": "Quadratics",
+    "strand": "Quadratics",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-017",
+    "year": 11,
+    "title": "Quadratics \u2014 reasoning",
+    "base": "Quadratics",
+    "strand": "Quadratics",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-018",
+    "year": 11,
+    "title": "Quadratics \u2014 problem solving",
+    "base": "Quadratics",
+    "strand": "Quadratics",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-019",
+    "year": 11,
+    "title": "Quadratics \u2014 mixed practice",
+    "base": "Quadratics",
+    "strand": "Quadratics",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-020",
+    "year": 11,
+    "title": "Quadratics \u2014 challenge",
+    "base": "Quadratics",
+    "strand": "Quadratics",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-021",
+    "year": 11,
+    "title": "Simultaneous equations \u2014 fluency",
+    "base": "Simultaneous equations",
+    "strand": "Simultaneous",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-022",
+    "year": 11,
+    "title": "Simultaneous equations \u2014 reasoning",
+    "base": "Simultaneous equations",
+    "strand": "Simultaneous",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-023",
+    "year": 11,
+    "title": "Simultaneous equations \u2014 problem solving",
+    "base": "Simultaneous equations",
+    "strand": "Simultaneous",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-024",
+    "year": 11,
+    "title": "Simultaneous equations \u2014 mixed practice",
+    "base": "Simultaneous equations",
+    "strand": "Simultaneous",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-025",
+    "year": 11,
+    "title": "Simultaneous equations \u2014 challenge",
+    "base": "Simultaneous equations",
+    "strand": "Simultaneous",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-026",
+    "year": 11,
+    "title": "Functions \u2014 fluency",
+    "base": "Functions",
+    "strand": "Functions",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-027",
+    "year": 11,
+    "title": "Functions \u2014 reasoning",
+    "base": "Functions",
+    "strand": "Functions",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-028",
+    "year": 11,
+    "title": "Functions \u2014 problem solving",
+    "base": "Functions",
+    "strand": "Functions",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-029",
+    "year": 11,
+    "title": "Functions \u2014 mixed practice",
+    "base": "Functions",
+    "strand": "Functions",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-030",
+    "year": 11,
+    "title": "Functions \u2014 challenge",
+    "base": "Functions",
+    "strand": "Functions",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-031",
+    "year": 11,
+    "title": "Iteration \u2014 fluency",
+    "base": "Iteration",
+    "strand": "Iteration",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-032",
+    "year": 11,
+    "title": "Iteration \u2014 reasoning",
+    "base": "Iteration",
+    "strand": "Iteration",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-033",
+    "year": 11,
+    "title": "Iteration \u2014 problem solving",
+    "base": "Iteration",
+    "strand": "Iteration",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-034",
+    "year": 11,
+    "title": "Iteration \u2014 mixed practice",
+    "base": "Iteration",
+    "strand": "Iteration",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-035",
+    "year": 11,
+    "title": "Iteration \u2014 challenge",
+    "base": "Iteration",
+    "strand": "Iteration",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-036",
+    "year": 11,
+    "title": "Sequences \u2014 fluency",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-037",
+    "year": 11,
+    "title": "Sequences \u2014 reasoning",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-038",
+    "year": 11,
+    "title": "Sequences \u2014 problem solving",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-039",
+    "year": 11,
+    "title": "Sequences \u2014 mixed practice",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-040",
+    "year": 11,
+    "title": "Sequences \u2014 challenge",
+    "base": "Sequences",
+    "strand": "Sequences",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-041",
+    "year": 11,
+    "title": "Coordinate geometry \u2014 fluency",
+    "base": "Coordinate geometry",
+    "strand": "Coordinate",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-042",
+    "year": 11,
+    "title": "Coordinate geometry \u2014 reasoning",
+    "base": "Coordinate geometry",
+    "strand": "Coordinate",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-043",
+    "year": 11,
+    "title": "Coordinate geometry \u2014 problem solving",
+    "base": "Coordinate geometry",
+    "strand": "Coordinate",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-044",
+    "year": 11,
+    "title": "Coordinate geometry \u2014 mixed practice",
+    "base": "Coordinate geometry",
+    "strand": "Coordinate",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-045",
+    "year": 11,
+    "title": "Coordinate geometry \u2014 challenge",
+    "base": "Coordinate geometry",
+    "strand": "Coordinate",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-046",
+    "year": 11,
+    "title": "Direct and inverse proportion \u2014 fluency",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-047",
+    "year": 11,
+    "title": "Direct and inverse proportion \u2014 reasoning",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-048",
+    "year": 11,
+    "title": "Direct and inverse proportion \u2014 problem solving",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-049",
+    "year": 11,
+    "title": "Direct and inverse proportion \u2014 mixed practice",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-050",
+    "year": 11,
+    "title": "Direct and inverse proportion \u2014 challenge",
+    "base": "Direct and inverse proportion",
+    "strand": "Direct",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-051",
+    "year": 11,
+    "title": "Growth and decay \u2014 fluency",
+    "base": "Growth and decay",
+    "strand": "Growth",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-052",
+    "year": 11,
+    "title": "Growth and decay \u2014 reasoning",
+    "base": "Growth and decay",
+    "strand": "Growth",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-053",
+    "year": 11,
+    "title": "Growth and decay \u2014 problem solving",
+    "base": "Growth and decay",
+    "strand": "Growth",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-054",
+    "year": 11,
+    "title": "Growth and decay \u2014 mixed practice",
+    "base": "Growth and decay",
+    "strand": "Growth",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-055",
+    "year": 11,
+    "title": "Growth and decay \u2014 challenge",
+    "base": "Growth and decay",
+    "strand": "Growth",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-056",
+    "year": 11,
+    "title": "Circle theorems \u2014 fluency",
+    "base": "Circle theorems",
+    "strand": "Circle",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-057",
+    "year": 11,
+    "title": "Circle theorems \u2014 reasoning",
+    "base": "Circle theorems",
+    "strand": "Circle",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-058",
+    "year": 11,
+    "title": "Circle theorems \u2014 problem solving",
+    "base": "Circle theorems",
+    "strand": "Circle",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-059",
+    "year": 11,
+    "title": "Circle theorems \u2014 mixed practice",
+    "base": "Circle theorems",
+    "strand": "Circle",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-060",
+    "year": 11,
+    "title": "Circle theorems \u2014 challenge",
+    "base": "Circle theorems",
+    "strand": "Circle",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-061",
+    "year": 11,
+    "title": "Trigonometry \u2014 fluency",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-062",
+    "year": 11,
+    "title": "Trigonometry \u2014 reasoning",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-063",
+    "year": 11,
+    "title": "Trigonometry \u2014 problem solving",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-064",
+    "year": 11,
+    "title": "Trigonometry \u2014 mixed practice",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-065",
+    "year": 11,
+    "title": "Trigonometry \u2014 challenge",
+    "base": "Trigonometry",
+    "strand": "Trigonometry",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-066",
+    "year": 11,
+    "title": "Similarity and congruence \u2014 fluency",
+    "base": "Similarity and congruence",
+    "strand": "Similarity",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-067",
+    "year": 11,
+    "title": "Similarity and congruence \u2014 reasoning",
+    "base": "Similarity and congruence",
+    "strand": "Similarity",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-068",
+    "year": 11,
+    "title": "Similarity and congruence \u2014 problem solving",
+    "base": "Similarity and congruence",
+    "strand": "Similarity",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-069",
+    "year": 11,
+    "title": "Similarity and congruence \u2014 mixed practice",
+    "base": "Similarity and congruence",
+    "strand": "Similarity",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-070",
+    "year": 11,
+    "title": "Similarity and congruence \u2014 challenge",
+    "base": "Similarity and congruence",
+    "strand": "Similarity",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-071",
+    "year": 11,
+    "title": "Vectors \u2014 fluency",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-072",
+    "year": 11,
+    "title": "Vectors \u2014 reasoning",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-073",
+    "year": 11,
+    "title": "Vectors \u2014 problem solving",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-074",
+    "year": 11,
+    "title": "Vectors \u2014 mixed practice",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-075",
+    "year": 11,
+    "title": "Vectors \u2014 challenge",
+    "base": "Vectors",
+    "strand": "Vectors",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-076",
+    "year": 11,
+    "title": "Conditional probability \u2014 fluency",
+    "base": "Conditional probability",
+    "strand": "Conditional",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-077",
+    "year": 11,
+    "title": "Conditional probability \u2014 reasoning",
+    "base": "Conditional probability",
+    "strand": "Conditional",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-078",
+    "year": 11,
+    "title": "Conditional probability \u2014 problem solving",
+    "base": "Conditional probability",
+    "strand": "Conditional",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-079",
+    "year": 11,
+    "title": "Conditional probability \u2014 mixed practice",
+    "base": "Conditional probability",
+    "strand": "Conditional",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-080",
+    "year": 11,
+    "title": "Conditional probability \u2014 challenge",
+    "base": "Conditional probability",
+    "strand": "Conditional",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-081",
+    "year": 11,
+    "title": "Histograms \u2014 fluency",
+    "base": "Histograms",
+    "strand": "Histograms",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-082",
+    "year": 11,
+    "title": "Histograms \u2014 reasoning",
+    "base": "Histograms",
+    "strand": "Histograms",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-083",
+    "year": 11,
+    "title": "Histograms \u2014 problem solving",
+    "base": "Histograms",
+    "strand": "Histograms",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-084",
+    "year": 11,
+    "title": "Histograms \u2014 mixed practice",
+    "base": "Histograms",
+    "strand": "Histograms",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-085",
+    "year": 11,
+    "title": "Histograms \u2014 challenge",
+    "base": "Histograms",
+    "strand": "Histograms",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-086",
+    "year": 11,
+    "title": "Cumulative frequency \u2014 fluency",
+    "base": "Cumulative frequency",
+    "strand": "Cumulative",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-087",
+    "year": 11,
+    "title": "Cumulative frequency \u2014 reasoning",
+    "base": "Cumulative frequency",
+    "strand": "Cumulative",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-088",
+    "year": 11,
+    "title": "Cumulative frequency \u2014 problem solving",
+    "base": "Cumulative frequency",
+    "strand": "Cumulative",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-089",
+    "year": 11,
+    "title": "Cumulative frequency \u2014 mixed practice",
+    "base": "Cumulative frequency",
+    "strand": "Cumulative",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-090",
+    "year": 11,
+    "title": "Cumulative frequency \u2014 challenge",
+    "base": "Cumulative frequency",
+    "strand": "Cumulative",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-091",
+    "year": 11,
+    "title": "Box plots \u2014 fluency",
+    "base": "Box plots",
+    "strand": "Box",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-092",
+    "year": 11,
+    "title": "Box plots \u2014 reasoning",
+    "base": "Box plots",
+    "strand": "Box",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-093",
+    "year": 11,
+    "title": "Box plots \u2014 problem solving",
+    "base": "Box plots",
+    "strand": "Box",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-094",
+    "year": 11,
+    "title": "Box plots \u2014 mixed practice",
+    "base": "Box plots",
+    "strand": "Box",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-095",
+    "year": 11,
+    "title": "Box plots \u2014 challenge",
+    "base": "Box plots",
+    "strand": "Box",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-096",
+    "year": 11,
+    "title": "Proof \u2014 fluency",
+    "base": "Proof",
+    "strand": "Proof",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-097",
+    "year": 11,
+    "title": "Proof \u2014 reasoning",
+    "base": "Proof",
+    "strand": "Proof",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-098",
+    "year": 11,
+    "title": "Proof \u2014 problem solving",
+    "base": "Proof",
+    "strand": "Proof",
+    "tier": "both",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-099",
+    "year": 11,
+    "title": "Proof \u2014 mixed practice",
+    "base": "Proof",
+    "strand": "Proof",
+    "tier": "foundation",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  },
+  {
+    "id": "M11-100",
+    "year": 11,
+    "title": "Proof \u2014 challenge",
+    "base": "Proof",
+    "strand": "Proof",
+    "tier": "higher",
+    "exam_board": "Pearson Edexcel",
+    "spec": "1MA1"
+  }
+]
