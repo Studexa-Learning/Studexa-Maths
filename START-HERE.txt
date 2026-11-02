@@ -1,0 +1,37 @@
+ONEMATHS V9 — SECONDARY STUDENT WORKSPACE
+
+Built 12 October 2026. These are local upload packages; the live website/database has not been changed.
+Requires your existing OneHome v7 setup. Do not replace the database with a new installation.
+
+INSTALL
+1. Upload the complete contents of OneMaths-v9.zip to your existing OneMaths website. index.html and the other files belong at the website root, without an extra OneMaths folder.
+2. If your school uses OneHome and OneReader, upload the matching complete folders from Shared-Sites-Compatibility.zip to those respective websites. These preserve their existing interfaces, including the OneReader v8 reading corner and demo fix, and add the new maths content loader. Do not upload the two folders to the same website.
+3. In the Supabase SQL Editor, run 01-Year-7.sql through 05-Year-11.sql separately. Each is about 25 KB. They add content and can safely be run again. Existing logins, progress, classes, homework and points are kept.
+4. Refresh the websites. In OneMaths select Topics by year, then the required year. Search for 'simultaneous equations' to try the new practice and hint popup.
+If your school has changed config.js since these local packages were made, keep your current live config.js in each website.
+
+WHAT IS INCLUDED
+- Modern secondary-school student workspace and mobile layout.
+- 210 additional named skills: 42 each in Years 7, 8, 9, 10 and 11.
+- 1,680 questions: eight per new skill, with two written hint steps per question.
+- Existing topics remain, grouped with the new ones. Teachers can still assign school topics separately.
+- Study Buddy uses the student's chosen name and pet. Hints are free and explain the current question; they do not charge points or merely eliminate an answer.
+- Older questions use their existing written hint. School-authored questions without a hint say so rather than inventing guidance.
+- Personal heading, colour accent, focus goal, saved topics and private notes, stored on the student account.
+- Resume at the next unanswered question, optional focus view, break popup and joke popup.
+- Dashboard values come from actual recorded activity; no fabricated streak or time totals.
+- Existing teacher/admin functions and Sunday messaging rules are retained.
+
+YEAR GROUPS AND CONTENT
+The 210 additions are focused subskills; some develop smaller parts of broader topics already available. Year labels are suggested teaching stages, not a prescribed national year-by-year sequence or exam-board endorsement. Teachers should adapt the order and difficulty to their classes.
+Topic areas were checked against the England secondary mathematics programme of study:
+https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study/national-curriculum-in-england-mathematics-programmes-of-study
+TOPICS-BY-YEAR.csv lists all 210 additions.
+
+DEMO
+Open index.html?demo=1&student=1 on a web server. Demo uses a separate sample question bank; browser demo activity does not change school records. Live grading remains in the school database. Files cannot be tested correctly by double-clicking index.html without a web server.
+
+CHECKED
+Browser: desktop/mobile, preferences after reload, year filters, saved topics, two-stage hints tied to current question, incorrect/correct answers, resume, focus, private notes, buddy rename, jokes, teacher planner, no browser errors.
+Database: existing v7 regression checks, repeat installation, five year-group student accounts, all 1,680 incorrect/correct answer pairs, completion, private answer stripping, saved preferences and original progress/points retention.
+Content: counts, distinct titles versus the existing title list, eight distinct prompts per skill, numeric choice uniqueness, hints, asset hashes and 112 independent checks derived from rendered questions.
