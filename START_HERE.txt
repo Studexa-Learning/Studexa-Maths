@@ -1,2 +1,0 @@
-Open index.html for the Studexa Maths student dashboard.
-Open teacher.html for the teacher dashboard and homework builder.
